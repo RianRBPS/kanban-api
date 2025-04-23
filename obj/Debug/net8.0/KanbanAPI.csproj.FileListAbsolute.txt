@@ -1,0 +1,8 @@
+/home/rian/projetos/KanbanAPI/obj/Debug/net8.0/KanbanAPI.csproj.AssemblyReference.cache
+/home/rian/projetos/KanbanAPI/obj/Debug/net8.0/KanbanAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/rian/projetos/KanbanAPI/obj/Debug/net8.0/KanbanAPI.AssemblyInfoInputs.cache
+/home/rian/projetos/KanbanAPI/obj/Debug/net8.0/KanbanAPI.AssemblyInfo.cs
+/home/rian/projetos/KanbanAPI/obj/Debug/net8.0/KanbanAPI.csproj.CoreCompileInputs.cache
+/home/rian/projetos/KanbanAPI/obj/Debug/net8.0/KanbanAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/rian/projetos/KanbanAPI/obj/Debug/net8.0/KanbanAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/rian/projetos/KanbanAPI/obj/Debug/net8.0/KanbanAPI.sourcelink.json
